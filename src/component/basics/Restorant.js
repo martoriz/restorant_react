@@ -1,5 +1,6 @@
 import React from 'react'
 import './style.css'
+import Menu from './menuApi.js'
 
 
 
@@ -20,7 +21,7 @@ const Restorant = () => {
                     </span>
                     <div className='card-read'>Read</div>
                 </div>
-                <img src="{image}" alt="images" className='card-media' />
+                <img src={image} alt="images" className='card-media' />
 
                 <span className='card-tag subtle'>Order Now</span>
           </div>

@@ -1,0 +1,17 @@
+-------------------- Auto-Git Log --------------------
+		Tue Mar 22 2022 18:03:56 GMT+0200 (Восточная Европа, стандартное время)
+------------------------------------------------------
+
+Modified files:
+* src/component/basics/Restorant.js
+
+
+Created files:
+* .autogit/logs/log-22-2-2022-17-33-40.txt
+* src/component/basics/menuApi.js
+
+
+Deleted files:
+
+
+Renamed files:
